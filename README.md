@@ -1,4 +1,4 @@
-<h1 align="center">Oi, me chamo Pedro</h1>
+<h1 align="center">Prazer, Sou Pedro Schmalz</h1>
 <h3 align="center">Mestrando em Ciência Política na USP</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedroschmalz&label=Profile%20views&color=0e75b6&style=flat" alt="pedroschmalz" /> </p>
