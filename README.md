@@ -7,9 +7,9 @@
 
 - 🌱 Estou aprendendo **Python e Machine Learning**
 
-- 📫 Como me contatar **pedrosantanaschmalz@usp.br**
+- 📫 Como me contatar: **pedrosantanaschmalz@usp.br**
 
-- 📄 Experiência Prévia [http://lattes.cnpq.br/1854424638099951](http://lattes.cnpq.br/1854424638099951)
+- 📄 Experiência Prévia: [http://lattes.cnpq.br/1854424638099951](http://lattes.cnpq.br/1854424638099951)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
