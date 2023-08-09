@@ -1,11 +1,11 @@
 <h1 align="center">Prazer, Sou Pedro Schmalz</h1>
-<h3 align="center">Mestrando em Ciência Política na USP</h3>
+<h3 align="center">Doutorando em Ciência Política na USP</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedroschmalz&label=Profile%20views&color=0e75b6&style=flat" alt="pedroschmalz" /> </p>
 
 - 🔭 Estou trabalhando com **Modelos de Machine Learning para a Ciência Política**
 
-- 🌱 Estou aprendendo **Python e Machine Learning**
+- 🌱 **Python e Machine Learning**
 
 - 📫 Como me contatar: **pedrosantanaschmalz@usp.br** ou **pedrosantanaschmalz@gmail.com**
 
